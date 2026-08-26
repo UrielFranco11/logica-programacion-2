@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 
-/* Styles the container box surrounding your temperature readings */
+/* Styles the container box surrounding temperature readings */
 .converter-box {
   background-color: #7c4141; /* White background for the card */
   border: 2px solid #cbd5e1; /* Light grey border frame */
@@ -18,7 +18,7 @@ body {
   box-shadow: 0 4px 6px rgba(233, 223, 223, 0.05); /* Soft drop shadow */
 }
 
-/* Adds clean spacing and bold styling to your text outputs */
+/* Adds clean spacing and bold styling to text outputs */
 .converter-box p {
   font-size: 1.2rem;
   color: #e8eaed;
